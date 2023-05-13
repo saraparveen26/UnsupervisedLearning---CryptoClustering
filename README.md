@@ -132,7 +132,7 @@ The scatter chart created shows the clusters as under:
 ![Scatter Plot - PCA Data](Images/Image5.png)
 
 
-## Step 7: Visualize and Compare the Results
+## Step 8: Visualize and Compare the Results
 
 The results are visualized and compared by completing the following steps:
 
